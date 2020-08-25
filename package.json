@@ -1,0 +1,23 @@
+{
+  "name": "readline-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Getting Values.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aswin527/Jaurney-to-Node.JS.git"
+  },
+  "author": "Aswin Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aswin527/Jaurney-to-Node.JS/issues"
+  },
+  "homepage": "https://github.com/Aswin527/Jaurney-to-Node.JS#readme"
+}
